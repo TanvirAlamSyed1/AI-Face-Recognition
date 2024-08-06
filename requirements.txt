@@ -1,0 +1,4 @@
+opencv-python
+SciPy
+NumPy == 1.20.0
+tensorflow
