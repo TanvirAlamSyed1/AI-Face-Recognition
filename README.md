@@ -10,3 +10,7 @@ This repo is just demonstrating the use of https://teachablemachine.withgoogle.c
 - now, run ' pip install -r requirement.txt ', this will download all required libaries you need.
 - once everything runs smoothly, run this command ' streamlit run app.py' 
 
+# Demo of the code running
+
+item_detection.mp4
+
