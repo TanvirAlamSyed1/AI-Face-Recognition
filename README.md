@@ -12,5 +12,5 @@ This repo is just demonstrating the use of https://teachablemachine.withgoogle.c
 
 # Demo of the code running
 
-item_detection.mp4
+[item_detection.mp4](https://github.com/TanvirAlamSyed1/Item-Recognition/blob/main/item_detection.mp4)
 
