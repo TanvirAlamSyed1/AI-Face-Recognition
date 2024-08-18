@@ -1,4 +1,4 @@
-# Welcome to Face Recognition 
+# Welcome to Item Recognition 
 This repo is just demonstrating the use of https://teachablemachine.withgoogle.com/, as I just wanted to mess around with it :)
 
 # How to run the code:
