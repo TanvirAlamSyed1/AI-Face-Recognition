@@ -11,6 +11,5 @@ This repo is just demonstrating the use of https://teachablemachine.withgoogle.c
 - once everything runs smoothly, run this command ' streamlit run app.py' 
 
 # Demo of the code running
-
-[item_detection.mp4](https://github.com/TanvirAlamSyed1/Item-Recognition/blob/main/item_detection.mp4)
+[!item_detection.mp4](https://github.com/TanvirAlamSyed1/Item-Recognition/blob/main/item_detection.mp4)
 
